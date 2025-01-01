@@ -46,6 +46,7 @@ class LangKeys {
   static const String labelContinue = 'label_continue';
   static const String login = 'login';
   static const String signUp = 'sign_up';
+  static const String applyNow = 'apply_now';
   static const String alreadyHaveAnAccount = 'already_have_an_account';
   static const String notHaveAnAccount = 'not_have_an_account';
   static const String resend = 'resend';
@@ -225,4 +226,6 @@ class LangKeys {
   static const String errorGettingLocation = 'error_getting_location';
   static const String getLocation = 'get_location';
   static const String addressNotFound = 'address_not_found';
+  static const String changeToTheLanguage = 'change_to_the_language';
+  static const String ok = 'ok';
 }
