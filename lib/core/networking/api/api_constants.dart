@@ -1,26 +1,13 @@
 class ApiConstants {
   static const String baseUrl = "https://flower.elevateegy.com/";
-  static const String signInApi = "api/v1/auth/signin";
-  static const String registerApi = "api/v1/auth/signup";
-  static const String forgotPasswordApi = "api/v1/auth/forgotPassword";
-  static const String verifyResetCodeApi = "api/v1/auth/verifyResetCode";
-  static const String resetPasswordApi = "api/v1/auth/resetPassword";
-  static const String getAllCategories = "api/v1/categories";
-  static const String getHomeApi = "api/v1/home";
-  static const String mostSellingProductsApi = "api/v1/best-seller";
-  static String genericApi(String resourceName) => "api/v1/$resourceName";
-  static const String getAllProducts = "api/v1/products";
-  static const String getLoggedUserData = "api/v1/auth/profile-data";
-  static const String editProfile = "api/v1/auth/editProfile";
-  static const String changePassword = "api/v1/auth/change-password";
-  static const String uploadPhoto = "api/v1/auth/upload-photo";
-  static const String cart = "api/v1/cart";
-  static const String updateProductCartQuantity = "api/v1/cart/";
-  static const String deleteProductFromCart = "api/v1/cart/";
-  static const String addAddress = "api/v1/addresses";
-  static const String getLoggedUserAddresses = "api/v1/addresses";
-  static const String cashOrders = "api/v1/orders";
-  static const String checkOutOrders = "$cashOrders/checkout";
-  static const String checkOutUrl = "http://localhost:3000";
+  static const String signInApi = "api/v1/drivers/signin";
+  static const String registerApi = "api/v1/drivers/apply";
+  static const String forgotPasswordApi = "api/v1/drivers/forgotPassword";
+  static const String verifyResetCodeApi = "api/v1/drivers/verifyResetCode";
+  static const String changePassword = "api/v1/drivers/change-password";
+  static const String resetPasswordApi = "api/v1/drivers/resetPassword";
+  static const String getLoggedUserData = "api/v1/drivers/profile-data";
+  static const String editProfile = "api/v1/drivers/editProfile";
+  static const String uploadPhoto = "api/v1/drivers/upload-photo";
 
 }

@@ -20,6 +20,8 @@ jobs:
       - run: flutter pub get
       - run: flutter test --coverage
 
-      - uses: codecov/codecov-action@v4
+      - name: Upload coverage reports to Codecov
+        uses: codecov/codecov-action@v5
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
+          slug: YasmeenGad/Flowery-Tracking-App

@@ -1,6 +1,6 @@
-# Flowery Tracking App
+# Flowery Delivery App
 
-Flowery Tracking App
+Flowery Delivery App
 
 ## Getting Started
 

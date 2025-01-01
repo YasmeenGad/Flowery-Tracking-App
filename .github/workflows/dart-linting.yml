@@ -45,9 +45,6 @@ jobs:
         run: flutter pub get
 
 
-      - name: Generate localization files
-        run: flutter gen-l10n
-
       - name: Run Dart Fix
         run: dart fix --apply
 
