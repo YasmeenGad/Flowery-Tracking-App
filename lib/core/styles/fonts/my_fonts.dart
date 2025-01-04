@@ -57,6 +57,7 @@ class MyFonts {
   static TextStyle styleMedium500_20 = const TextStyle(
     fontWeight: FontWeight.w500,
     fontSize: 20,
+
   );
 
   static TextStyle styleSemiBold600_12 = const TextStyle(

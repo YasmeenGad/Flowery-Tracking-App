@@ -5,7 +5,7 @@
     "invalidEmail": "هذا البريد الإلكتروني غير صالح",
     "enterPassword": "الرجاء إدخال كلمة المرور",
     "passwordComplexity": "يجب أن تحتوي كلمة المرور على 8 أحرف على الأقل، وتحتوي على حرف كبير واحد، وحرف صغير واحد، ورقم واحد، وحرف خاص واحد.",
-    "confirmPassword": "تأكيد كلمة المرور",
+    "confirm_password": "تأكيد كلمة المرور",
     "passwordMismatch": "كلمات المرور غير متطابقة",
     "enterPhoneNumber": "الرجاء إدخال رقم هاتفك",
     "invalidPhoneNumber": "الرجاء إدخال رقم هاتف صحيح",
@@ -51,15 +51,15 @@
     "notHaveAnAccount": "ليس لديك حساب؟",
     "resend": "إعادة الإرسال",
     "enterNewPassword": "أدخل كلمة المرور الجديدة",
-    "newPassword": "كلمة المرور الجديدة",
+    "new_password": "كلمة المرور الجديدة",
     "languages": "اللغات",
     "selectLanguage": "اختر اللغة",
     "home": "الرئيسية",
     "result": "النتائج",
     "profile": "الملف الشخصي",
     "update": "تحديث",
-    "resetPassword": "اعادة تعيين كلمة المرور",
-    "currentPassword": "كلمة المرور الحالية",
+    "reset_password": "اعادة تعيين كلمة المرور",
+    "current_password": "كلمة المرور الحالية",
     "language": "اللغة",
     "english": "الإنجليزية",
     "arabic": "العربية",
@@ -226,8 +226,14 @@
     "location_permission_denied": "تم رفض إذن الموقع. ",
     "error_getting_location": "خطأ في الحصول على الموقع",
     "get_location": "الحصول على الموقع",
-    "address_not_found": "العنوان غير موجود"
-
+    "address_not_found": "العنوان غير موجود",
+    "change_to_the_language": "تغيير اللغة",
+    "ok": "حسنًا",
+    "vehicle_license": "رخصة السيارة",
+    "vehicle_type": "نوع السيارة",
+    "vehicle_number": "رقم السيارة",
+    "ready_for_delivery": "جاهز للتوصيل",
+    "vehicle_info": "معلومات السيارة"
 
 
 
